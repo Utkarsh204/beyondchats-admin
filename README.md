@@ -1,3 +1,9 @@
+## 📸 Screenshot
+![BeyondChats Screenshot](https://github.com/Utkarsh204/beyondchats-admin/blob/55d909160166d887be5de5a29a877812a27718d9/beyondchats-admin.jpg?raw=true)
+## 🎥 Demo Video
+[Watch Demo Video](https://github.com/Utkarsh204/beyondchats-admin/blob/55d909160166d887be5de5a29a877812a27718d9/beyondchats-adminutkarsh.mp4)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
